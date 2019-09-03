@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud.iml" filepath="$PROJECT_DIR$/springboot-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
     </modules>
   </component>
