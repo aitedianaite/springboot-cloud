@@ -5,9 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.HashMap;
-@FeignClient(name = "userService")
+@FeignClient(name = "userservice")
 public interface InterfaceTest {
-
-        @RequestMapping(value = "/user/userTest", method = RequestMethod.GET)
-        public HashMap<String,Object> userTest();
+         @RequestMapping(value = "/user/userTest", method = RequestMethod.GET)
+         HashMap<String,Object> userTest();
 }
