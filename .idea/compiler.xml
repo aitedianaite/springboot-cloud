@@ -10,6 +10,7 @@
         <module name="eureka" />
         <module name="springboot-cloud" />
         <module name="userservice" />
+        <module name="userservice2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="eureka" target="1.8" />
       <module name="springboot-cloud" target="1.8" />
       <module name="userservice" target="1.8" />
+      <module name="userservice2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -14,7 +14,7 @@ public class controller {
     @GetMapping("/userTest")
     public HashMap<String,Object> userTest(){
         HashMap<String, Object> map = new HashMap<>();
-        map.put("姓名","张三");
+        map.put("姓名","张三:8081");
         map.put("爱好","篮球");
         System.out.println(map.toString());
         return map;
